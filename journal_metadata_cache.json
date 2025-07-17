@@ -1,0 +1,1934 @@
+{
+  "timestamp": "2025-07-17T23:05:09.378615",
+  "journal_metadata": {
+    "Progress in Aerospace Sciences": {
+      "name": "Progress in Aerospace Sciences",
+      "papers": [
+        {
+          "paper_name": "Public perception of advanced aviation technologies: A review and roadmap to acceptance",
+          "journal": "Progress in Aerospace Sciences",
+          "quartile": "Q1",
+          "impact_score": 3.761,
+          "original_paper_name": "Public perception of advanced aviation technologies: A review and roadmap to acceptance",
+          "row_index": 0
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 3.761,
+      "paper_count": 1
+    },
+    "European Union Aviation Safety Agency (EASA) Report": {
+      "name": "European Union Aviation Safety Agency (EASA) Report",
+      "papers": [
+        {
+          "paper_name": "Study on the societal acceptance of Urban Air Mobility in Europe",
+          "journal": "European Union Aviation Safety Agency (EASA) Report",
+          "quartile": "Q1",
+          "impact_score": 3.0,
+          "original_paper_name": "Study on the societal acceptance of Urban Air Mobility in Europe",
+          "row_index": 1
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "paper_count": 1
+    },
+    "NASA Technical Reports Server (NTRS)": {
+      "name": "NASA Technical Reports Server (NTRS)",
+      "papers": [
+        {
+          "paper_name": "eVTOL Passenger Acceptance",
+          "journal": "NASA Technical Reports Server (NTRS)",
+          "quartile": "Q1",
+          "impact_score": 3.0,
+          "original_paper_name": "eVTOL Passenger Acceptance",
+          "row_index": 2
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "paper_count": 1
+    },
+    "Internal Airbus White Paper / Report": {
+      "name": "Internal Airbus White Paper / Report",
+      "papers": [
+        {
+          "paper_name": "An Assessment of Public Perception of Urban Air Mobility (UAM)",
+          "journal": "Internal Airbus White Paper / Report",
+          "quartile": "Q1",
+          "impact_score": 3.0,
+          "original_paper_name": "An Assessment of Public Perception of Urban Air Mobility (UAM)",
+          "row_index": 3
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "paper_count": 1
+    },
+    "Technological Forecasting & Social Change": {
+      "name": "Technological Forecasting & Social Change",
+      "papers": [
+        {
+          "paper_name": "Citizens' attitudes towards technological innovations: The case of urban air mobility",
+          "journal": "Technological Forecasting & Social Change",
+          "quartile": "Q1",
+          "impact_score": 2.58,
+          "original_paper_name": "Citizens' attitudes towards technological innovations: The case of urban air mobility",
+          "row_index": 4
+        },
+        {
+          "paper_name": "Understanding the behavioral intention to use urban air autonomous vehicles",
+          "journal": "Technological Forecasting & Social Change",
+          "quartile": "Q1",
+          "impact_score": 2.58,
+          "original_paper_name": "Understanding the behavioral intention to use urban air autonomous vehicles",
+          "row_index": 5
+        },
+        {
+          "paper_name": "Societal acceptance of urban air mobility based on the technology adoption framework",
+          "journal": "Technological Forecasting & Social Change",
+          "quartile": "Q1",
+          "impact_score": 2.58,
+          "original_paper_name": "Societal acceptance of urban air mobility based on the technology adoption framework",
+          "row_index": 6
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "paper_count": 3
+    },
+    "Transportation Research Part E: Logistics and Transportation Review": {
+      "name": "Transportation Research Part E: Logistics and Transportation Review",
+      "papers": [
+        {
+          "paper_name": "Air taxi service for urban mobility: A critical review of recent developments, future challenges, and opportunities",
+          "journal": "Transportation Research Part E: Logistics and Transportation Review",
+          "quartile": "Q1",
+          "impact_score": 2.544,
+          "original_paper_name": "Air taxi service for urban mobility: A critical review of recent developments, future challenges, and opportunities",
+          "row_index": 7
+        },
+        {
+          "paper_name": "On the understanding of the current status of urban air mobility development and its future prospects: Commuting in a flying vehicle as a new paradigm",
+          "journal": "Transportation Research Part E: Logistics and Transportation Review",
+          "quartile": "Q2",
+          "impact_score": 2.544,
+          "original_paper_name": "On the understanding of the current status of urban air mobility development and its future prospects: Commuting in a flying vehicle as a new paradigm",
+          "row_index": 8
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.544,
+      "paper_count": 2
+    },
+    "Transportation Research Part A: Policy and Practice": {
+      "name": "Transportation Research Part A: Policy and Practice",
+      "papers": [
+        {
+          "paper_name": "Factors affecting the adoption and use of urban air mobility",
+          "journal": "Transportation Research Part A: Policy and Practice",
+          "quartile": "Q1",
+          "impact_score": 2.49,
+          "original_paper_name": "Factors affecting the adoption and use of urban air mobility",
+          "row_index": 9
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "paper_count": 1
+    },
+    "Transportation Research Part A": {
+      "name": "Transportation Research Part A",
+      "papers": [
+        {
+          "paper_name": "Market segmentation of an electric vertical takeoff and landing (eVTOL) air taxi commuting service in five large U.S. cities",
+          "journal": "Transportation Research Part A",
+          "quartile": "Q1",
+          "impact_score": 2.49,
+          "original_paper_name": "Market segmentation of an electric vertical takeoff and landing (eVTOL) air taxi commuting service in five large U.S. cities",
+          "row_index": 10
+        },
+        {
+          "paper_name": "Ready for take-off? The dual role of affective and cognitive evaluations in the adoption of Urban Air Mobility services",
+          "journal": "Transportation Research Part A",
+          "quartile": "Q1",
+          "impact_score": 2.49,
+          "original_paper_name": "Ready for take-off? The dual role of affective and cognitive evaluations in the adoption of Urban Air Mobility services",
+          "row_index": 11
+        },
+        {
+          "paper_name": "The role of travel satisfaction and attitudes toward travel modes in the prospect of adoption of urban air taxis",
+          "journal": "Transportation Research Part A",
+          "quartile": "Q1",
+          "impact_score": 2.49,
+          "original_paper_name": "The role of travel satisfaction and attitudes toward travel modes in the prospect of adoption of urban air taxis",
+          "row_index": 12
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "paper_count": 3
+    },
+    "IEEE Transactions on Intelligent Transportation Systems": {
+      "name": "IEEE Transactions on Intelligent Transportation Systems",
+      "papers": [
+        {
+          "paper_name": "The State of Urban Air Mobility Research: An Assessment of Challenges and Opportunities",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "quartile": "Q1",
+          "impact_score": 2.478,
+          "original_paper_name": "The State of Urban Air Mobility Research: An Assessment of Challenges and Opportunities",
+          "row_index": 13
+        },
+        {
+          "paper_name": "AERIAL: A Meta Review and Discussion of Challenges Toward Unmanned Aerial Vehicle Operations in Logistics, Mobility, and Monitoring",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "quartile": "Q1",
+          "impact_score": 2.478,
+          "original_paper_name": "AERIAL: A Meta Review and Discussion of Challenges Toward Unmanned Aerial Vehicle Operations in Logistics, Mobility, and Monitoring",
+          "row_index": 14
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.478,
+      "paper_count": 2
+    },
+    "Transportation Research Part F: Psychology and Behaviour": {
+      "name": "Transportation Research Part F: Psychology and Behaviour",
+      "papers": [
+        {
+          "paper_name": "Societal acceptance of advanced aerial mobility in China\u2019s Greater Bay Area",
+          "journal": "Transportation Research Part F: Psychology and Behaviour",
+          "quartile": "Q1",
+          "impact_score": 2.04,
+          "original_paper_name": "Societal acceptance of advanced aerial mobility in China\u2019s Greater Bay Area",
+          "row_index": 15
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.04,
+      "paper_count": 1
+    },
+    "Forum Dienstleistungsmanagement (Springer Book Chapter)": {
+      "name": "Forum Dienstleistungsmanagement (Springer Book Chapter)",
+      "papers": [
+        {
+          "paper_name": "What Drives the Acceptance of Urban Air Mobility \u2013 A Qualitative Analysis",
+          "journal": "Forum Dienstleistungsmanagement (Springer Book Chapter)",
+          "quartile": "Q3",
+          "impact_score": 2.0,
+          "original_paper_name": "What Drives the Acceptance of Urban Air Mobility \u2013 A Qualitative Analysis",
+          "row_index": 16
+        }
+      ],
+      "quartile": "Q3",
+      "impact_score": 2.0,
+      "paper_count": 1
+    },
+    "Transport Policy": {
+      "name": "Transport Policy",
+      "papers": [
+        {
+          "paper_name": "Unraveling behavioral factors influencing the adoption of urban air mobility from the end user's perspective in Tehran",
+          "journal": "Transport Policy",
+          "quartile": "Q1",
+          "impact_score": 1.93,
+          "original_paper_name": "Unraveling behavioral factors influencing the adoption of urban air mobility from the end user's perspective in Tehran",
+          "row_index": 17
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.93,
+      "paper_count": 1
+    },
+    "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)": {
+      "name": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)",
+      "papers": [
+        {
+          "paper_name": "Come Fly With Me - Investigating the Effects of Path Visualizations in Automated UAM",
+          "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)",
+          "quartile": "Q1",
+          "impact_score": 1.91,
+          "original_paper_name": "Come Fly With Me - Investigating the Effects of Path Visualizations in Automated UAM",
+          "row_index": 18
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "paper_count": 1
+    },
+    "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.": {
+      "name": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+      "papers": [
+        {
+          "paper_name": "Wind of Change: Investigating Information Visualizations for Passengers and Residents\u2019 Perception of Automated Urban Air Mobility",
+          "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+          "quartile": "Q1",
+          "impact_score": 1.91,
+          "original_paper_name": "Wind of Change: Investigating Information Visualizations for Passengers and Residents\u2019 Perception of Automated Urban Air Mobility",
+          "row_index": 19
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "paper_count": 1
+    },
+    "Technology in Society": {
+      "name": "Technology in Society",
+      "papers": [
+        {
+          "paper_name": "The \u2018risk\u2019 of disruptive technology today (A case study of aviation \u2013 Enter the drone)",
+          "journal": "Technology in Society",
+          "quartile": "Q1",
+          "impact_score": 1.71,
+          "original_paper_name": "The \u2018risk\u2019 of disruptive technology today (A case study of aviation \u2013 Enter the drone)",
+          "row_index": 20
+        },
+        {
+          "paper_name": "An assessment of the acceptance and aesthetics of UAVs and helicopters through an experiment and a survey",
+          "journal": "Technology in Society",
+          "quartile": "Q1",
+          "impact_score": 1.71,
+          "original_paper_name": "An assessment of the acceptance and aesthetics of UAVs and helicopters through an experiment and a survey",
+          "row_index": 21
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.71,
+      "paper_count": 2
+    },
+    "Journal of Air Transport Management": {
+      "name": "Journal of Air Transport Management",
+      "papers": [
+        {
+          "paper_name": "Innovation strategies for non-existent markets - Profiting from urban air mobility",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "Innovation strategies for non-existent markets - Profiting from urban air mobility",
+          "row_index": 22
+        },
+        {
+          "paper_name": "From innovation to adoption: A framework-based evaluation of sustainable adoption strategies for eVTOL vehicles",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "From innovation to adoption: A framework-based evaluation of sustainable adoption strategies for eVTOL vehicles",
+          "row_index": 23
+        },
+        {
+          "paper_name": "Challenges in urban air mobility implementation: A comparative analysis of barriers in Germany and the United States",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "Challenges in urban air mobility implementation: A comparative analysis of barriers in Germany and the United States",
+          "row_index": 24
+        },
+        {
+          "paper_name": "Who will board urban air taxis? An analysis of advanced air mobility demand and value of travel time for business, airport access, and regional tourism trips in Iran",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "Who will board urban air taxis? An analysis of advanced air mobility demand and value of travel time for business, airport access, and regional tourism trips in Iran",
+          "row_index": 25
+        },
+        {
+          "paper_name": "A prediction model of Consumer's willingness to fly in autonomous air taxis",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "A prediction model of Consumer's willingness to fly in autonomous air taxis",
+          "row_index": 26
+        },
+        {
+          "paper_name": "Consumer intention over upcoming utopia: Urban air mobility",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "Consumer intention over upcoming utopia: Urban air mobility",
+          "row_index": 27
+        },
+        {
+          "paper_name": "Exploring university students\u2019 acceptability of autonomous vehicles and urban air mobility",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "Exploring university students\u2019 acceptability of autonomous vehicles and urban air mobility",
+          "row_index": 28
+        },
+        {
+          "paper_name": "What drives users to accept flying cars for urban air mobility? Findings from an empirical study",
+          "journal": "Journal of Air Transport Management",
+          "quartile": "Q1",
+          "impact_score": 1.51,
+          "original_paper_name": "What drives users to accept flying cars for urban air mobility? Findings from an empirical study",
+          "row_index": 29
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "paper_count": 8
+    },
+    "Travel Behaviour and Society": {
+      "name": "Travel Behaviour and Society",
+      "papers": [
+        {
+          "paper_name": "An exploratory investigation of public perceptions towards key benefits and concerns from the future use of flying cars",
+          "journal": "Travel Behaviour and Society",
+          "quartile": "Q1",
+          "impact_score": 1.48,
+          "original_paper_name": "An exploratory investigation of public perceptions towards key benefits and concerns from the future use of flying cars",
+          "row_index": 30
+        },
+        {
+          "paper_name": "Effects of trust and customer perceived value on the acceptance of urban air mobility as public transportation",
+          "journal": "Travel Behaviour and Society",
+          "quartile": "Q1",
+          "impact_score": 1.48,
+          "original_paper_name": "Effects of trust and customer perceived value on the acceptance of urban air mobility as public transportation",
+          "row_index": 31
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.48,
+      "paper_count": 2
+    },
+    "Research in Transportation Business & Management": {
+      "name": "Research in Transportation Business & Management",
+      "papers": [
+        {
+          "paper_name": "Trust and user acceptance of pilotless passenger aircraft",
+          "journal": "Research in Transportation Business & Management",
+          "quartile": "Q1",
+          "impact_score": 1.1,
+          "original_paper_name": "Trust and user acceptance of pilotless passenger aircraft",
+          "row_index": 32
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.1,
+      "paper_count": 1
+    },
+    "International Journal of Human\u2013Computer Interaction": {
+      "name": "International Journal of Human\u2013Computer Interaction",
+      "papers": [
+        {
+          "paper_name": "Exploring the User Acceptance of Urban Air Mobility: Extending the Technology Acceptance Model with Trust and Service Quality Factors",
+          "journal": "International Journal of Human\u2013Computer Interaction",
+          "quartile": "Q1",
+          "impact_score": 1.05,
+          "original_paper_name": "Exploring the User Acceptance of Urban Air Mobility: Extending the Technology Acceptance Model with Trust and Service Quality Factors",
+          "row_index": 33
+        },
+        {
+          "paper_name": "Exploring the User Acceptance of Urban Air Mobility: Extending the Technology Acceptance Model with Trust and Service Quality Factors",
+          "journal": "International Journal of Human\u2013Computer Interaction",
+          "quartile": "Q1",
+          "impact_score": 1.05,
+          "original_paper_name": "Exploring the User Acceptance of Urban Air Mobility: Extending the Technology Acceptance Model with Trust and Service Quality Factors",
+          "row_index": 34
+        },
+        {
+          "paper_name": "Designing for Trust: How Human-Machine Interface Can Shape the Future of Urban Air Mobility",
+          "journal": "International Journal of Human\u2013Computer Interaction",
+          "quartile": "Q1",
+          "impact_score": 1.05,
+          "original_paper_name": "Designing for Trust: How Human-Machine Interface Can Shape the Future of Urban Air Mobility",
+          "row_index": 35
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.05,
+      "paper_count": 3
+    },
+    "European Transport Research Review": {
+      "name": "European Transport Research Review",
+      "papers": [
+        {
+          "paper_name": "Modelling public attitude towards drone delivery in Germany",
+          "journal": "European Transport Research Review",
+          "quartile": "Q1",
+          "impact_score": 1.03,
+          "original_paper_name": "Modelling public attitude towards drone delivery in Germany",
+          "row_index": 36
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.03,
+      "paper_count": 1
+    },
+    "Transportmetrica A: Transport Science": {
+      "name": "Transportmetrica A: Transport Science",
+      "papers": [
+        {
+          "paper_name": "Are we willing to relocate with the future introduction of flying cars?",
+          "journal": "Transportmetrica A: Transport Science",
+          "quartile": "Q1",
+          "impact_score": 1.02,
+          "original_paper_name": "Are we willing to relocate with the future introduction of flying cars?",
+          "row_index": 37
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.02,
+      "paper_count": 1
+    },
+    "Transportation Research Interdisciplinary Perspectives": {
+      "name": "Transportation Research Interdisciplinary Perspectives",
+      "papers": [
+        {
+          "paper_name": "Modelling public attitude towards air taxis in Germany",
+          "journal": "Transportation Research Interdisciplinary Perspectives",
+          "quartile": "Q1",
+          "impact_score": 1.01,
+          "original_paper_name": "Modelling public attitude towards air taxis in Germany",
+          "row_index": 38
+        },
+        {
+          "paper_name": "Will air taxis extend public transportation? A scenario-based approach on user acceptance in different urban settings",
+          "journal": "Transportation Research Interdisciplinary Perspectives",
+          "quartile": "Q1",
+          "impact_score": 1.01,
+          "original_paper_name": "Will air taxis extend public transportation? A scenario-based approach on user acceptance in different urban settings",
+          "row_index": 39
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 1.01,
+      "paper_count": 2
+    },
+    "Case Studies on Transport Policy": {
+      "name": "Case Studies on Transport Policy",
+      "papers": [
+        {
+          "paper_name": "Vertiport and air taxi features valued by consumers in the United States and India",
+          "journal": "Case Studies on Transport Policy",
+          "quartile": "Q1",
+          "impact_score": 0.98,
+          "original_paper_name": "Vertiport and air taxi features valued by consumers in the United States and India",
+          "row_index": 40
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.98,
+      "paper_count": 1
+    },
+    "IEEE Access": {
+      "name": "IEEE Access",
+      "papers": [
+        {
+          "paper_name": "Why Consumers Resist Urban Air Mobility: A Hybrid SEM-fsQCA Approach",
+          "journal": "IEEE Access",
+          "quartile": "Q1",
+          "impact_score": 0.96,
+          "original_paper_name": "Why Consumers Resist Urban Air Mobility: A Hybrid SEM-fsQCA Approach",
+          "row_index": 41
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.96,
+      "paper_count": 1
+    },
+    "Multimodal Transportation": {
+      "name": "Multimodal Transportation",
+      "papers": [
+        {
+          "paper_name": "Modeling the adoption of urban air mobility based on technology acceptance and risk perception theories",
+          "journal": "Multimodal Transportation",
+          "quartile": "Q1",
+          "impact_score": 0.95,
+          "original_paper_name": "Modeling the adoption of urban air mobility based on technology acceptance and risk perception theories",
+          "row_index": 42
+        },
+        {
+          "paper_name": "The role of technology belief, perceived risk and initial trust in users\u2019 acceptance of urban air mobility: An empirical case in China",
+          "journal": "Multimodal Transportation",
+          "quartile": "Q1",
+          "impact_score": 0.95,
+          "original_paper_name": "The role of technology belief, perceived risk and initial trust in users\u2019 acceptance of urban air mobility: An empirical case in China",
+          "row_index": 43
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.95,
+      "paper_count": 2
+    },
+    "Journal of Advanced Transportation": {
+      "name": "Journal of Advanced Transportation",
+      "papers": [
+        {
+          "paper_name": "Analysis of Factors Influencing Public Acceptance of Air Taxis in South Korea",
+          "journal": "Journal of Advanced Transportation",
+          "quartile": "Q1",
+          "impact_score": 0.88,
+          "original_paper_name": "Analysis of Factors Influencing Public Acceptance of Air Taxis in South Korea",
+          "row_index": 44
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.88,
+      "paper_count": 1
+    },
+    "Transportation Research Record": {
+      "name": "Transportation Research Record",
+      "papers": [
+        {
+          "paper_name": "Analysis of a Survey to Identify Factors to Accept Electric Airplanes",
+          "journal": "Transportation Research Record",
+          "quartile": "Q1",
+          "impact_score": 0.81,
+          "original_paper_name": "Analysis of a Survey to Identify Factors to Accept Electric Airplanes",
+          "row_index": 45
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.81,
+      "paper_count": 1
+    },
+    "Sustainability": {
+      "name": "Sustainability",
+      "papers": [
+        {
+          "paper_name": "Modelling Behavioural Factors Affecting Consumers\u2019 Intention to Adopt Electric Aircraft",
+          "journal": "Sustainability",
+          "quartile": "Q1",
+          "impact_score": 0.69,
+          "original_paper_name": "Modelling Behavioural Factors Affecting Consumers\u2019 Intention to Adopt Electric Aircraft",
+          "row_index": 46
+        },
+        {
+          "paper_name": "Social Sustainable Urban Air Mobility in Europe",
+          "journal": "Sustainability",
+          "quartile": "Q1",
+          "impact_score": 0.69,
+          "original_paper_name": "Social Sustainable Urban Air Mobility in Europe",
+          "row_index": 47
+        },
+        {
+          "paper_name": "Roadmap to Early Implementation of Passenger Air Mobility",
+          "journal": "Sustainability",
+          "quartile": "Q1",
+          "impact_score": 0.69,
+          "original_paper_name": "Roadmap to Early Implementation of Passenger Air Mobility",
+          "row_index": 48
+        },
+        {
+          "paper_name": "A New Mobility Era: Stakeholders\u2019 Insights regarding Urban Air Mobility",
+          "journal": "Sustainability",
+          "quartile": "Q1",
+          "impact_score": 0.69,
+          "original_paper_name": "A New Mobility Era: Stakeholders\u2019 Insights regarding Urban Air Mobility",
+          "row_index": 49
+        },
+        {
+          "paper_name": "Exploring AAM Acceptance in Tourism: Environmental Consciousness\u2019s Influence on Hedonic Motivation and Intention to Use",
+          "journal": "Sustainability",
+          "quartile": "Q1",
+          "impact_score": 0.69,
+          "original_paper_name": "Exploring AAM Acceptance in Tourism: Environmental Consciousness\u2019s Influence on Hedonic Motivation and Intention to Use",
+          "row_index": 50
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "paper_count": 5
+    },
+    "Aerospace": {
+      "name": "Aerospace",
+      "papers": [
+        {
+          "paper_name": "Attitudes towards Urban Air Mobility for E-Commerce Deliveries: An Exploratory Survey Comparing European Regions",
+          "journal": "Aerospace",
+          "quartile": "Q1",
+          "impact_score": 0.61,
+          "original_paper_name": "Attitudes towards Urban Air Mobility for E-Commerce Deliveries: An Exploratory Survey Comparing European Regions",
+          "row_index": 51
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.61,
+      "paper_count": 1
+    },
+    "International Journal of Aerospace Psychology": {
+      "name": "International Journal of Aerospace Psychology",
+      "papers": [
+        {
+          "paper_name": "Cars are Ready to Fly: Urban Air Mobility and Psychological Process of Sustainable Travel Mode Choices",
+          "journal": "International Journal of Aerospace Psychology",
+          "quartile": "Q2",
+          "impact_score": 0.53,
+          "original_paper_name": "Cars are Ready to Fly: Urban Air Mobility and Psychological Process of Sustainable Travel Mode Choices",
+          "row_index": 52
+        },
+        {
+          "paper_name": "Technology Adoption and Acceptance of Urban Air Mobility Systems",
+          "journal": "International Journal of Aerospace Psychology",
+          "quartile": "Q2",
+          "impact_score": 0.53,
+          "original_paper_name": "Technology Adoption and Acceptance of Urban Air Mobility Systems",
+          "row_index": 53
+        }
+      ],
+      "quartile": "Q2",
+      "impact_score": 0.53,
+      "paper_count": 2
+    },
+    "Journal of China Tourism Research": {
+      "name": "Journal of China Tourism Research",
+      "papers": [
+        {
+          "paper_name": "Do Tourists Dream of Urban Air Mobility? Psychology and the Unified Theory of Acceptance and Use of Technology",
+          "journal": "Journal of China Tourism Research",
+          "quartile": "Q1",
+          "impact_score": 0.53,
+          "original_paper_name": "Do Tourists Dream of Urban Air Mobility? Psychology and the Unified Theory of Acceptance and Use of Technology",
+          "row_index": 54
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 0.53,
+      "paper_count": 1
+    },
+    "Frontiers of Engineering Management": {
+      "name": "Frontiers of Engineering Management",
+      "papers": [
+        {
+          "paper_name": "Urban air mobility (UAM) and ground transportation integration: A survey",
+          "journal": "Frontiers of Engineering Management",
+          "quartile": "Q2",
+          "impact_score": 0.525,
+          "original_paper_name": "Urban air mobility (UAM) and ground transportation integration: A survey",
+          "row_index": 55
+        }
+      ],
+      "quartile": "Q2",
+      "impact_score": 0.525,
+      "paper_count": 1
+    },
+    "CEAS Aeronautical Journal": {
+      "name": "CEAS Aeronautical Journal",
+      "papers": [
+        {
+          "paper_name": "Public acceptance of civilian drones and air taxis in Germany: A comprehensive overview",
+          "journal": "CEAS Aeronautical Journal",
+          "quartile": "Q2",
+          "impact_score": 0.47,
+          "original_paper_name": "Public acceptance of civilian drones and air taxis in Germany: A comprehensive overview",
+          "row_index": 56
+        },
+        {
+          "paper_name": "How does it feel to fly in an air taxi? Exploring modern head-mounted display capabilities for mixed reality flight simulation",
+          "journal": "CEAS Aeronautical Journal",
+          "quartile": "Q2",
+          "impact_score": 0.47,
+          "original_paper_name": "How does it feel to fly in an air taxi? Exploring modern head-mounted display capabilities for mixed reality flight simulation",
+          "row_index": 57
+        },
+        {
+          "paper_name": "Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport",
+          "journal": "CEAS Aeronautical Journal",
+          "quartile": "Q2",
+          "impact_score": 0.47,
+          "original_paper_name": "Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport",
+          "row_index": 58
+        }
+      ],
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "paper_count": 3
+    },
+    "Journal of Applied and Computational Mechanics": {
+      "name": "Journal of Applied and Computational Mechanics",
+      "papers": [
+        {
+          "paper_name": "A Comprehensive and Systematic Literature Review on Flying Cars in Contemporary Research",
+          "journal": "Journal of Applied and Computational Mechanics",
+          "quartile": "Q3",
+          "impact_score": 0.422,
+          "original_paper_name": "A Comprehensive and Systematic Literature Review on Flying Cars in Contemporary Research",
+          "row_index": 59
+        }
+      ],
+      "quartile": "Q3",
+      "impact_score": 0.422,
+      "paper_count": 1
+    },
+    "Opem Engineering": {
+      "name": "Opem Engineering",
+      "papers": [
+        {
+          "paper_name": "Urban air mobility and flying cars: Overview, examples, prospects, drawbacks, and solutions",
+          "journal": "Opem Engineering",
+          "quartile": "Q3",
+          "impact_score": 0.344,
+          "original_paper_name": "Urban air mobility and flying cars: Overview, examples, prospects, drawbacks, and solutions",
+          "row_index": 60
+        }
+      ],
+      "quartile": "Q3",
+      "impact_score": 0.344,
+      "paper_count": 1
+    },
+    "HFES Proceedings": {
+      "name": "HFES Proceedings",
+      "papers": [
+        {
+          "paper_name": "Public Perception of UAM: Are we ready for the new mobility that we have dreamed of?",
+          "journal": "HFES Proceedings",
+          "quartile": "Q4",
+          "impact_score": 0.21,
+          "original_paper_name": "Public Perception of UAM: Are we ready for the new mobility that we have dreamed of?",
+          "row_index": 61
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": 0.21,
+      "paper_count": 1
+    },
+    "Journal of the Korean Society for Aviation and Aeronautics": {
+      "name": "Journal of the Korean Society for Aviation and Aeronautics",
+      "papers": [
+        {
+          "paper_name": "Analysis of Factors Affecting the Adoption of Urban Air Mobility (UAM)",
+          "journal": "Journal of the Korean Society for Aviation and Aeronautics",
+          "quartile": "Q4",
+          "impact_score": 0.18,
+          "original_paper_name": "Analysis of Factors Affecting the Adoption of Urban Air Mobility (UAM)",
+          "row_index": 62
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": 0.18,
+      "paper_count": 1
+    },
+    "Lecture Notes in Computer Science (Springer, HCII 2023)": {
+      "name": "Lecture Notes in Computer Science (Springer, HCII 2023)",
+      "papers": [
+        {
+          "paper_name": "User Acceptance of Urban Air Mobility (UAM) for Passenger Transport: A Choice-Based Conjoint Study",
+          "journal": "Lecture Notes in Computer Science (Springer, HCII 2023)",
+          "quartile": "Q3",
+          "impact_score": null,
+          "original_paper_name": "User Acceptance of Urban Air Mobility (UAM) for Passenger Transport: A Choice-Based Conjoint Study",
+          "row_index": 63
+        }
+      ],
+      "quartile": "Q3",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "CHI Extended Abstracts (ACM)": {
+      "name": "CHI Extended Abstracts (ACM)",
+      "papers": [
+        {
+          "paper_name": "Is This Flight Headed Downtown? : User Experience Considerations for Urban Air Mobility",
+          "journal": "CHI Extended Abstracts (ACM)",
+          "quartile": "Q2",
+          "impact_score": null,
+          "original_paper_name": "Is This Flight Headed Downtown? : User Experience Considerations for Urban Air Mobility",
+          "row_index": 64
+        }
+      ],
+      "quartile": "Q2",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "Journal of the Air Transport Research Society (JATRS)": {
+      "name": "Journal of the Air Transport Research Society (JATRS)",
+      "papers": [
+        {
+          "paper_name": "Adoption of the Urban Air Mobility System: Analysis of Technical, Legal and Social Aspects",
+          "journal": "Journal of the Air Transport Research Society (JATRS)",
+          "quartile": "Q1",
+          "impact_score": null,
+          "original_paper_name": "Adoption of the Urban Air Mobility System: Analysis of Technical, Legal and Social Aspects",
+          "row_index": 65
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "Collegiate Aviation Review International": {
+      "name": "Collegiate Aviation Review International",
+      "papers": [
+        {
+          "paper_name": "Consumer Willingness to Fly on Advanced Air Mobility (AAM) Electric Vertical Takeoff and Landing (eVTOL) Aircraft",
+          "journal": "Collegiate Aviation Review International",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "Consumer Willingness to Fly on Advanced Air Mobility (AAM) Electric Vertical Takeoff and Landing (eVTOL) Aircraft",
+          "row_index": 66
+        },
+        {
+          "paper_name": "How Weather, Terrain, Flight Time, and Population Density Affect Consumer Willingness to Fly in Autonomous Air Taxis",
+          "journal": "Collegiate Aviation Review International",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "How Weather, Terrain, Flight Time, and Population Density Affect Consumer Willingness to Fly in Autonomous Air Taxis",
+          "row_index": 68
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 2
+    },
+    "Journal of Undergraduate Research, University of Florida": {
+      "name": "Journal of Undergraduate Research, University of Florida",
+      "papers": [
+        {
+          "paper_name": "A Grounded Theory Exploration of Air Taxis in Florida: Motivations for Adoption",
+          "journal": "Journal of Undergraduate Research, University of Florida",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "A Grounded Theory Exploration of Air Taxis in Florida: Motivations for Adoption",
+          "row_index": 67
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "Politecnico di Milano": {
+      "name": "Politecnico di Milano",
+      "papers": [
+        {
+          "paper_name": "Discrete choice models to investigate travellers\u2019 intention-to-use Urban Air Mobility services",
+          "journal": "Politecnico di Milano",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "Discrete choice models to investigate travellers\u2019 intention-to-use Urban Air Mobility services",
+          "row_index": 69
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "AutomotiveUI Adjunct Proceedings": {
+      "name": "AutomotiveUI Adjunct Proceedings",
+      "papers": [
+        {
+          "paper_name": "Unravelling User Perspectives on Automated Urban Air Mobility: A Virtual Reality Approach",
+          "journal": "AutomotiveUI Adjunct Proceedings",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "Unravelling User Perspectives on Automated Urban Air Mobility: A Virtual Reality Approach",
+          "row_index": 70
+        },
+        {
+          "paper_name": "The 2nd Workshop on User Experience in Urban Air Mobility: From Ground to Aerial Transportation",
+          "journal": "AutomotiveUI Adjunct Proceedings",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "The 2nd Workshop on User Experience in Urban Air Mobility: From Ground to Aerial Transportation",
+          "row_index": 73
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 2
+    },
+    "eScholarship, University of California": {
+      "name": "eScholarship, University of California",
+      "papers": [
+        {
+          "paper_name": "The Potential Societal Barriers of Urban Air Mobility (UAM)",
+          "journal": "eScholarship, University of California",
+          "quartile": "Q1",
+          "impact_score": 2.0,
+          "original_paper_name": "The Potential Societal Barriers of Urban Air Mobility (UAM)",
+          "row_index": 71
+        }
+      ],
+      "quartile": "Q1",
+      "impact_score": 2.0,
+      "paper_count": 1
+    },
+    "IEEE Digital Avionics Systems Conference (DASC)": {
+      "name": "IEEE Digital Avionics Systems Conference (DASC)",
+      "papers": [
+        {
+          "paper_name": "Assessing Social Acceptance of Urban Air Mobility using Virtual Reality",
+          "journal": "IEEE Digital Avionics Systems Conference (DASC)",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "Assessing Social Acceptance of Urban Air Mobility using Virtual Reality",
+          "row_index": 72
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 1
+    },
+    "DICUAM 2021 Conference": {
+      "name": "DICUAM 2021 Conference",
+      "papers": [
+        {
+          "paper_name": "Noise and Visual Perception of Urban Air Mobility vehicles",
+          "journal": "DICUAM 2021 Conference",
+          "quartile": "Q4",
+          "impact_score": null,
+          "original_paper_name": "Noise and Visual Perception of Urban Air Mobility vehicles",
+          "row_index": 74
+        }
+      ],
+      "quartile": "Q4",
+      "impact_score": null,
+      "paper_count": 1
+    }
+  },
+  "paper_to_journal_map": {
+    "Public perception of advanced aviation technologies: A review and roadmap to acceptance": {
+      "journal": "Progress in Aerospace Sciences",
+      "quartile": "Q1",
+      "impact_score": 3.761,
+      "normalized_impact_score": 0.07522000000000001
+    },
+    "public_perception_of_advanced_aviation_technologies_a_review_and_roadmap_to_acceptance": {
+      "journal": "Progress in Aerospace Sciences",
+      "quartile": "Q1",
+      "impact_score": 3.761,
+      "normalized_impact_score": 0.07522000000000001
+    },
+    "Study on the societal acceptance of Urban Air Mobility in Europe": {
+      "journal": "European Union Aviation Safety Agency (EASA) Report",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "on_the_societal_acceptance_of_urban_air_mobility_in_europe": {
+      "journal": "European Union Aviation Safety Agency (EASA) Report",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "eVTOL Passenger Acceptance": {
+      "journal": "NASA Technical Reports Server (NTRS)",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "evtol_passenger_acceptance": {
+      "journal": "NASA Technical Reports Server (NTRS)",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "An Assessment of Public Perception of Urban Air Mobility (UAM)": {
+      "journal": "Internal Airbus White Paper / Report",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "an_assessment_of_public_perception_of_urban_air_mobility_uam": {
+      "journal": "Internal Airbus White Paper / Report",
+      "quartile": "Q1",
+      "impact_score": 3.0,
+      "normalized_impact_score": 0.06
+    },
+    "Citizens' attitudes towards technological innovations: The case of urban air mobility": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "citizens_attitudes_towards_technological_innovations_the_case_of_urban_air_mobility": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "Understanding the behavioral intention to use urban air autonomous vehicles": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "understanding_the_behavioral_intention_to_use_urban_air_autonomous_vehicles": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "Societal acceptance of urban air mobility based on the technology adoption framework": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "societal_acceptance_of_urban_air_mobility_based_on_the_technology_adoption_framework": {
+      "journal": "Technological Forecasting & Social Change",
+      "quartile": "Q1",
+      "impact_score": 2.58,
+      "normalized_impact_score": 0.0516
+    },
+    "Air taxi service for urban mobility: A critical review of recent developments, future challenges, and opportunities": {
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "quartile": "Q1",
+      "impact_score": 2.544,
+      "normalized_impact_score": 0.05088
+    },
+    "air_taxi_service_for_urban_mobility_a_critical_review_of_recent_developments_future_challenges_and_opportunities": {
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "quartile": "Q1",
+      "impact_score": 2.544,
+      "normalized_impact_score": 0.05088
+    },
+    "On the understanding of the current status of urban air mobility development and its future prospects: Commuting in a flying vehicle as a new paradigm": {
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "quartile": "Q2",
+      "impact_score": 2.544,
+      "normalized_impact_score": 0.05088
+    },
+    "on_the_understanding_of_the_current_status_of_urban_air_mobility_development_and_its_future_prospects_commuting_in_a_flying_vehicle_as_a_new_paradigm": {
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "quartile": "Q2",
+      "impact_score": 2.544,
+      "normalized_impact_score": 0.05088
+    },
+    "Factors affecting the adoption and use of urban air mobility": {
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "factors_affecting_the_adoption_and_use_of_urban_air_mobility": {
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "Market segmentation of an electric vertical takeoff and landing (eVTOL) air taxi commuting service in five large U.S. cities": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "market_segmentation_of_an_electric_vertical_takeoff_and_landing_evtol_air_taxi_commuting_service_in_five_large_us_cities": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "Ready for take-off? The dual role of affective and cognitive evaluations in the adoption of Urban Air Mobility services": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "ready_for_takeoff_the_dual_role_of_affective_and_cognitive_evaluations_in_the_adoption_of_urban_air_mobility_services": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "The role of travel satisfaction and attitudes toward travel modes in the prospect of adoption of urban air taxis": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "the_role_of_travel_satisfaction_and_attitudes_toward_travel_modes_in_the_prospect_of_adoption_of_urban_air_taxis": {
+      "journal": "Transportation Research Part A",
+      "quartile": "Q1",
+      "impact_score": 2.49,
+      "normalized_impact_score": 0.049800000000000004
+    },
+    "The State of Urban Air Mobility Research: An Assessment of Challenges and Opportunities": {
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "quartile": "Q1",
+      "impact_score": 2.478,
+      "normalized_impact_score": 0.04956000000000001
+    },
+    "the_state_of_urban_air_mobility_research_an_assessment_of_challenges_and_opportunities": {
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "quartile": "Q1",
+      "impact_score": 2.478,
+      "normalized_impact_score": 0.04956000000000001
+    },
+    "AERIAL: A Meta Review and Discussion of Challenges Toward Unmanned Aerial Vehicle Operations in Logistics, Mobility, and Monitoring": {
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "quartile": "Q1",
+      "impact_score": 2.478,
+      "normalized_impact_score": 0.04956000000000001
+    },
+    "aerial_a_meta_review_and_discussion_of_challenges_toward_unmanned_aerial_vehicle_operations_in_logistics_mobility_and_monitoring": {
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "quartile": "Q1",
+      "impact_score": 2.478,
+      "normalized_impact_score": 0.04956000000000001
+    },
+    "Societal acceptance of advanced aerial mobility in China\u2019s Greater Bay Area": {
+      "journal": "Transportation Research Part F: Psychology and Behaviour",
+      "quartile": "Q1",
+      "impact_score": 2.04,
+      "normalized_impact_score": 0.0408
+    },
+    "societal_acceptance_of_advanced_aerial_mobility_in_chinas_greater_bay_area": {
+      "journal": "Transportation Research Part F: Psychology and Behaviour",
+      "quartile": "Q1",
+      "impact_score": 2.04,
+      "normalized_impact_score": 0.0408
+    },
+    "What Drives the Acceptance of Urban Air Mobility \u2013 A Qualitative Analysis": {
+      "journal": "Forum Dienstleistungsmanagement (Springer Book Chapter)",
+      "quartile": "Q3",
+      "impact_score": 2.0,
+      "normalized_impact_score": 0.04
+    },
+    "what_drives_the_acceptance_of_urban_air_mobility_a_qualitative_analysis": {
+      "journal": "Forum Dienstleistungsmanagement (Springer Book Chapter)",
+      "quartile": "Q3",
+      "impact_score": 2.0,
+      "normalized_impact_score": 0.04
+    },
+    "Unraveling behavioral factors influencing the adoption of urban air mobility from the end user's perspective in Tehran": {
+      "journal": "Transport Policy",
+      "quartile": "Q1",
+      "impact_score": 1.93,
+      "normalized_impact_score": 0.038599999999999995
+    },
+    "unraveling_behavioral_factors_influencing_the_adoption_of_urban_air_mobility_from_the_end_users_perspective_in_tehran": {
+      "journal": "Transport Policy",
+      "quartile": "Q1",
+      "impact_score": 1.93,
+      "normalized_impact_score": 0.038599999999999995
+    },
+    "Come Fly With Me - Investigating the Effects of Path Visualizations in Automated UAM": {
+      "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)",
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "normalized_impact_score": 0.0382
+    },
+    "come_fly_with_me_investigating_the_effects_of_path_visualizations_in_automated_uam": {
+      "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)",
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "normalized_impact_score": 0.0382
+    },
+    "Wind of Change: Investigating Information Visualizations for Passengers and Residents\u2019 Perception of Automated Urban Air Mobility": {
+      "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "normalized_impact_score": 0.0382
+    },
+    "wind_of_change_investigating_information_visualizations_for_passengers_and_residents_perception_of_automated_urban_air_mobility": {
+      "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+      "quartile": "Q1",
+      "impact_score": 1.91,
+      "normalized_impact_score": 0.0382
+    },
+    "The \u2018risk\u2019 of disruptive technology today (A case study of aviation \u2013 Enter the drone)": {
+      "journal": "Technology in Society",
+      "quartile": "Q1",
+      "impact_score": 1.71,
+      "normalized_impact_score": 0.0342
+    },
+    "the_risk_of_disruptive_technology_today_a_case_study_of_aviation_enter_the_drone": {
+      "journal": "Technology in Society",
+      "quartile": "Q1",
+      "impact_score": 1.71,
+      "normalized_impact_score": 0.0342
+    },
+    "An assessment of the acceptance and aesthetics of UAVs and helicopters through an experiment and a survey": {
+      "journal": "Technology in Society",
+      "quartile": "Q1",
+      "impact_score": 1.71,
+      "normalized_impact_score": 0.0342
+    },
+    "an_assessment_of_the_acceptance_and_aesthetics_of_uavs_and_helicopters_through_an_experiment_and_a_survey": {
+      "journal": "Technology in Society",
+      "quartile": "Q1",
+      "impact_score": 1.71,
+      "normalized_impact_score": 0.0342
+    },
+    "Innovation strategies for non-existent markets - Profiting from urban air mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "innovation_strategies_for_nonexistent_markets_profiting_from_urban_air_mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "From innovation to adoption: A framework-based evaluation of sustainable adoption strategies for eVTOL vehicles": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "from_innovation_to_adoption_a_frameworkbased_evaluation_of_sustainable_adoption_strategies_for_evtol_vehicles": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "Challenges in urban air mobility implementation: A comparative analysis of barriers in Germany and the United States": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "challenges_in_urban_air_mobility_implementation_a_comparative_analysis_of_barriers_in_germany_and_the_united_states": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "Who will board urban air taxis? An analysis of advanced air mobility demand and value of travel time for business, airport access, and regional tourism trips in Iran": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "who_will_board_urban_air_taxis_an_analysis_of_advanced_air_mobility_demand_and_value_of_travel_time_for_business_airport_access_and_regional_tourism_trips_in_iran": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "A prediction model of Consumer's willingness to fly in autonomous air taxis": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "a_prediction_model_of_consumers_willingness_to_fly_in_autonomous_air_taxis": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "Consumer intention over upcoming utopia: Urban air mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "consumer_intention_over_upcoming_utopia_urban_air_mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "Exploring university students\u2019 acceptability of autonomous vehicles and urban air mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "exploring_university_students_acceptability_of_autonomous_vehicles_and_urban_air_mobility": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "What drives users to accept flying cars for urban air mobility? Findings from an empirical study": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "what_drives_users_to_accept_flying_cars_for_urban_air_mobility_findings_from_an_empirical_study": {
+      "journal": "Journal of Air Transport Management",
+      "quartile": "Q1",
+      "impact_score": 1.51,
+      "normalized_impact_score": 0.0302
+    },
+    "An exploratory investigation of public perceptions towards key benefits and concerns from the future use of flying cars": {
+      "journal": "Travel Behaviour and Society",
+      "quartile": "Q1",
+      "impact_score": 1.48,
+      "normalized_impact_score": 0.0296
+    },
+    "an_exploratory_investigation_of_public_perceptions_towards_key_benefits_and_concerns_from_the_future_use_of_flying_cars": {
+      "journal": "Travel Behaviour and Society",
+      "quartile": "Q1",
+      "impact_score": 1.48,
+      "normalized_impact_score": 0.0296
+    },
+    "Effects of trust and customer perceived value on the acceptance of urban air mobility as public transportation": {
+      "journal": "Travel Behaviour and Society",
+      "quartile": "Q1",
+      "impact_score": 1.48,
+      "normalized_impact_score": 0.0296
+    },
+    "effects_of_trust_and_customer_perceived_value_on_the_acceptance_of_urban_air_mobility_as_public_transportation": {
+      "journal": "Travel Behaviour and Society",
+      "quartile": "Q1",
+      "impact_score": 1.48,
+      "normalized_impact_score": 0.0296
+    },
+    "Trust and user acceptance of pilotless passenger aircraft": {
+      "journal": "Research in Transportation Business & Management",
+      "quartile": "Q1",
+      "impact_score": 1.1,
+      "normalized_impact_score": 0.022000000000000002
+    },
+    "trust_and_user_acceptance_of_pilotless_passenger_aircraft": {
+      "journal": "Research in Transportation Business & Management",
+      "quartile": "Q1",
+      "impact_score": 1.1,
+      "normalized_impact_score": 0.022000000000000002
+    },
+    "Exploring the User Acceptance of Urban Air Mobility: Extending the Technology Acceptance Model with Trust and Service Quality Factors": {
+      "journal": "International Journal of Human\u2013Computer Interaction",
+      "quartile": "Q1",
+      "impact_score": 1.05,
+      "normalized_impact_score": 0.021
+    },
+    "exploring_the_user_acceptance_of_urban_air_mobility_extending_the_technology_acceptance_model_with_trust_and_service_quality_factors": {
+      "journal": "International Journal of Human\u2013Computer Interaction",
+      "quartile": "Q1",
+      "impact_score": 1.05,
+      "normalized_impact_score": 0.021
+    },
+    "Designing for Trust: How Human-Machine Interface Can Shape the Future of Urban Air Mobility": {
+      "journal": "International Journal of Human\u2013Computer Interaction",
+      "quartile": "Q1",
+      "impact_score": 1.05,
+      "normalized_impact_score": 0.021
+    },
+    "designing_for_trust_how_humanmachine_interface_can_shape_the_future_of_urban_air_mobility": {
+      "journal": "International Journal of Human\u2013Computer Interaction",
+      "quartile": "Q1",
+      "impact_score": 1.05,
+      "normalized_impact_score": 0.021
+    },
+    "Modelling public attitude towards drone delivery in Germany": {
+      "journal": "European Transport Research Review",
+      "quartile": "Q1",
+      "impact_score": 1.03,
+      "normalized_impact_score": 0.0206
+    },
+    "modelling_public_attitude_towards_drone_delivery_in_germany": {
+      "journal": "European Transport Research Review",
+      "quartile": "Q1",
+      "impact_score": 1.03,
+      "normalized_impact_score": 0.0206
+    },
+    "Are we willing to relocate with the future introduction of flying cars?": {
+      "journal": "Transportmetrica A: Transport Science",
+      "quartile": "Q1",
+      "impact_score": 1.02,
+      "normalized_impact_score": 0.0204
+    },
+    "are_we_willing_to_relocate_with_the_future_introduction_of_flying_cars": {
+      "journal": "Transportmetrica A: Transport Science",
+      "quartile": "Q1",
+      "impact_score": 1.02,
+      "normalized_impact_score": 0.0204
+    },
+    "Modelling public attitude towards air taxis in Germany": {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "quartile": "Q1",
+      "impact_score": 1.01,
+      "normalized_impact_score": 0.0202
+    },
+    "modelling_public_attitude_towards_air_taxis_in_germany": {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "quartile": "Q1",
+      "impact_score": 1.01,
+      "normalized_impact_score": 0.0202
+    },
+    "Will air taxis extend public transportation? A scenario-based approach on user acceptance in different urban settings": {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "quartile": "Q1",
+      "impact_score": 1.01,
+      "normalized_impact_score": 0.0202
+    },
+    "will_air_taxis_extend_public_transportation_a_scenariobased_approach_on_user_acceptance_in_different_urban_settings": {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "quartile": "Q1",
+      "impact_score": 1.01,
+      "normalized_impact_score": 0.0202
+    },
+    "Vertiport and air taxi features valued by consumers in the United States and India": {
+      "journal": "Case Studies on Transport Policy",
+      "quartile": "Q1",
+      "impact_score": 0.98,
+      "normalized_impact_score": 0.0196
+    },
+    "vertiport_and_air_taxi_features_valued_by_consumers_in_the_united_states_and_india": {
+      "journal": "Case Studies on Transport Policy",
+      "quartile": "Q1",
+      "impact_score": 0.98,
+      "normalized_impact_score": 0.0196
+    },
+    "Why Consumers Resist Urban Air Mobility: A Hybrid SEM-fsQCA Approach": {
+      "journal": "IEEE Access",
+      "quartile": "Q1",
+      "impact_score": 0.96,
+      "normalized_impact_score": 0.0192
+    },
+    "why_consumers_resist_urban_air_mobility_a_hybrid_semfsqca_approach": {
+      "journal": "IEEE Access",
+      "quartile": "Q1",
+      "impact_score": 0.96,
+      "normalized_impact_score": 0.0192
+    },
+    "Modeling the adoption of urban air mobility based on technology acceptance and risk perception theories": {
+      "journal": "Multimodal Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.95,
+      "normalized_impact_score": 0.019
+    },
+    "modeling_the_adoption_of_urban_air_mobility_based_on_technology_acceptance_and_risk_perception_theories": {
+      "journal": "Multimodal Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.95,
+      "normalized_impact_score": 0.019
+    },
+    "The role of technology belief, perceived risk and initial trust in users\u2019 acceptance of urban air mobility: An empirical case in China": {
+      "journal": "Multimodal Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.95,
+      "normalized_impact_score": 0.019
+    },
+    "the_role_of_technology_belief_perceived_risk_and_initial_trust_in_users_acceptance_of_urban_air_mobility_an_empirical_case_in_china": {
+      "journal": "Multimodal Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.95,
+      "normalized_impact_score": 0.019
+    },
+    "Analysis of Factors Influencing Public Acceptance of Air Taxis in South Korea": {
+      "journal": "Journal of Advanced Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.88,
+      "normalized_impact_score": 0.0176
+    },
+    "analysis_of_factors_influencing_public_acceptance_of_air_taxis_in_south_korea": {
+      "journal": "Journal of Advanced Transportation",
+      "quartile": "Q1",
+      "impact_score": 0.88,
+      "normalized_impact_score": 0.0176
+    },
+    "Analysis of a Survey to Identify Factors to Accept Electric Airplanes": {
+      "journal": "Transportation Research Record",
+      "quartile": "Q1",
+      "impact_score": 0.81,
+      "normalized_impact_score": 0.016200000000000003
+    },
+    "analysis_of_a_survey_to_identify_factors_to_accept_electric_airplanes": {
+      "journal": "Transportation Research Record",
+      "quartile": "Q1",
+      "impact_score": 0.81,
+      "normalized_impact_score": 0.016200000000000003
+    },
+    "Modelling Behavioural Factors Affecting Consumers\u2019 Intention to Adopt Electric Aircraft": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "modelling_behavioural_factors_affecting_consumers_intention_to_adopt_electric_aircraft": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "Social Sustainable Urban Air Mobility in Europe": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "social_sustainable_urban_air_mobility_in_europe": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "Roadmap to Early Implementation of Passenger Air Mobility": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "roadmap_to_early_implementation_of_passenger_air_mobility": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "A New Mobility Era: Stakeholders\u2019 Insights regarding Urban Air Mobility": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "a_new_mobility_era_stakeholders_insights_regarding_urban_air_mobility": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "Exploring AAM Acceptance in Tourism: Environmental Consciousness\u2019s Influence on Hedonic Motivation and Intention to Use": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "exploring_aam_acceptance_in_tourism_environmental_consciousnesss_influence_on_hedonic_motivation_and_intention_to_use": {
+      "journal": "Sustainability",
+      "quartile": "Q1",
+      "impact_score": 0.69,
+      "normalized_impact_score": 0.0138
+    },
+    "Attitudes towards Urban Air Mobility for E-Commerce Deliveries: An Exploratory Survey Comparing European Regions": {
+      "journal": "Aerospace",
+      "quartile": "Q1",
+      "impact_score": 0.61,
+      "normalized_impact_score": 0.012199999999999999
+    },
+    "attitudes_towards_urban_air_mobility_for_ecommerce_deliveries_an_exploratory_survey_comparing_european_regions": {
+      "journal": "Aerospace",
+      "quartile": "Q1",
+      "impact_score": 0.61,
+      "normalized_impact_score": 0.012199999999999999
+    },
+    "Cars are Ready to Fly: Urban Air Mobility and Psychological Process of Sustainable Travel Mode Choices": {
+      "journal": "International Journal of Aerospace Psychology",
+      "quartile": "Q2",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "cars_are_ready_to_fly_urban_air_mobility_and_psychological_process_of_sustainable_travel_mode_choices": {
+      "journal": "International Journal of Aerospace Psychology",
+      "quartile": "Q2",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "Technology Adoption and Acceptance of Urban Air Mobility Systems": {
+      "journal": "International Journal of Aerospace Psychology",
+      "quartile": "Q2",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "technology_adoption_and_acceptance_of_urban_air_mobility_systems": {
+      "journal": "International Journal of Aerospace Psychology",
+      "quartile": "Q2",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "Do Tourists Dream of Urban Air Mobility? Psychology and the Unified Theory of Acceptance and Use of Technology": {
+      "journal": "Journal of China Tourism Research",
+      "quartile": "Q1",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "do_tourists_dream_of_urban_air_mobility_psychology_and_the_unified_theory_of_acceptance_and_use_of_technology": {
+      "journal": "Journal of China Tourism Research",
+      "quartile": "Q1",
+      "impact_score": 0.53,
+      "normalized_impact_score": 0.0106
+    },
+    "Urban air mobility (UAM) and ground transportation integration: A survey": {
+      "journal": "Frontiers of Engineering Management",
+      "quartile": "Q2",
+      "impact_score": 0.525,
+      "normalized_impact_score": 0.0105
+    },
+    "urban_air_mobility_uam_and_ground_transportation_integration_a_survey": {
+      "journal": "Frontiers of Engineering Management",
+      "quartile": "Q2",
+      "impact_score": 0.525,
+      "normalized_impact_score": 0.0105
+    },
+    "Public acceptance of civilian drones and air taxis in Germany: A comprehensive overview": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "public_acceptance_of_civilian_drones_and_air_taxis_in_germany_a_comprehensive_overview": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "How does it feel to fly in an air taxi? Exploring modern head-mounted display capabilities for mixed reality flight simulation": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "how_does_it_feel_to_fly_in_an_air_taxi_exploring_modern_headmounted_display_capabilities_for_mixed_reality_flight_simulation": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "can_urban_air_mobility_become_reality_opportunities_and_challenges_of_uam_as_innovative_mode_of_transport": {
+      "journal": "CEAS Aeronautical Journal",
+      "quartile": "Q2",
+      "impact_score": 0.47,
+      "normalized_impact_score": 0.009399999999999999
+    },
+    "A Comprehensive and Systematic Literature Review on Flying Cars in Contemporary Research": {
+      "journal": "Journal of Applied and Computational Mechanics",
+      "quartile": "Q3",
+      "impact_score": 0.422,
+      "normalized_impact_score": 0.00844
+    },
+    "a_comprehensive_and_systematic_literature_review_on_flying_cars_in_contemporary_research": {
+      "journal": "Journal of Applied and Computational Mechanics",
+      "quartile": "Q3",
+      "impact_score": 0.422,
+      "normalized_impact_score": 0.00844
+    },
+    "Urban air mobility and flying cars: Overview, examples, prospects, drawbacks, and solutions": {
+      "journal": "Opem Engineering",
+      "quartile": "Q3",
+      "impact_score": 0.344,
+      "normalized_impact_score": 0.00688
+    },
+    "urban_air_mobility_and_flying_cars_overview_examples_prospects_drawbacks_and_solutions": {
+      "journal": "Opem Engineering",
+      "quartile": "Q3",
+      "impact_score": 0.344,
+      "normalized_impact_score": 0.00688
+    },
+    "Public Perception of UAM: Are we ready for the new mobility that we have dreamed of?": {
+      "journal": "HFES Proceedings",
+      "quartile": "Q4",
+      "impact_score": 0.21,
+      "normalized_impact_score": 0.0042
+    },
+    "public_perception_of_uam_are_we_ready_for_the_new_mobility_that_we_have_dreamed_of": {
+      "journal": "HFES Proceedings",
+      "quartile": "Q4",
+      "impact_score": 0.21,
+      "normalized_impact_score": 0.0042
+    },
+    "Analysis of Factors Affecting the Adoption of Urban Air Mobility (UAM)": {
+      "journal": "Journal of the Korean Society for Aviation and Aeronautics",
+      "quartile": "Q4",
+      "impact_score": 0.18,
+      "normalized_impact_score": 0.0036
+    },
+    "analysis_of_factors_affecting_the_adoption_of_urban_air_mobility_uam": {
+      "journal": "Journal of the Korean Society for Aviation and Aeronautics",
+      "quartile": "Q4",
+      "impact_score": 0.18,
+      "normalized_impact_score": 0.0036
+    },
+    "User Acceptance of Urban Air Mobility (UAM) for Passenger Transport: A Choice-Based Conjoint Study": {
+      "journal": "Lecture Notes in Computer Science (Springer, HCII 2023)",
+      "quartile": "Q3",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "user_acceptance_of_urban_air_mobility_uam_for_passenger_transport_a_choicebased_conjoint_study": {
+      "journal": "Lecture Notes in Computer Science (Springer, HCII 2023)",
+      "quartile": "Q3",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Is This Flight Headed Downtown? : User Experience Considerations for Urban Air Mobility": {
+      "journal": "CHI Extended Abstracts (ACM)",
+      "quartile": "Q2",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "is_this_flight_headed_downtown_user_experience_considerations_for_urban_air_mobility": {
+      "journal": "CHI Extended Abstracts (ACM)",
+      "quartile": "Q2",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Adoption of the Urban Air Mobility System: Analysis of Technical, Legal and Social Aspects": {
+      "journal": "Journal of the Air Transport Research Society (JATRS)",
+      "quartile": "Q1",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "adoption_of_the_urban_air_mobility_system_analysis_of_technical_legal_and_social_aspects": {
+      "journal": "Journal of the Air Transport Research Society (JATRS)",
+      "quartile": "Q1",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Consumer Willingness to Fly on Advanced Air Mobility (AAM) Electric Vertical Takeoff and Landing (eVTOL) Aircraft": {
+      "journal": "Collegiate Aviation Review International",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "consumer_willingness_to_fly_on_advanced_air_mobility_aam_electric_vertical_takeoff_and_landing_evtol_aircraft": {
+      "journal": "Collegiate Aviation Review International",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "A Grounded Theory Exploration of Air Taxis in Florida: Motivations for Adoption": {
+      "journal": "Journal of Undergraduate Research, University of Florida",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "a_grounded_theory_exploration_of_air_taxis_in_florida_motivations_for_adoption": {
+      "journal": "Journal of Undergraduate Research, University of Florida",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "How Weather, Terrain, Flight Time, and Population Density Affect Consumer Willingness to Fly in Autonomous Air Taxis": {
+      "journal": "Collegiate Aviation Review International",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "how_weather_terrain_flight_time_and_population_density_affect_consumer_willingness_to_fly_in_autonomous_air_taxis": {
+      "journal": "Collegiate Aviation Review International",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Discrete choice models to investigate travellers\u2019 intention-to-use Urban Air Mobility services": {
+      "journal": "Politecnico di Milano",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "discrete_choice_models_to_investigate_travellers_intentiontouse_urban_air_mobility_services": {
+      "journal": "Politecnico di Milano",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Unravelling User Perspectives on Automated Urban Air Mobility: A Virtual Reality Approach": {
+      "journal": "AutomotiveUI Adjunct Proceedings",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "unravelling_user_perspectives_on_automated_urban_air_mobility_a_virtual_reality_approach": {
+      "journal": "AutomotiveUI Adjunct Proceedings",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "The Potential Societal Barriers of Urban Air Mobility (UAM)": {
+      "journal": "eScholarship, University of California",
+      "quartile": "Q1",
+      "impact_score": 2.0,
+      "normalized_impact_score": 0.04
+    },
+    "the_potential_societal_barriers_of_urban_air_mobility_uam": {
+      "journal": "eScholarship, University of California",
+      "quartile": "Q1",
+      "impact_score": 2.0,
+      "normalized_impact_score": 0.04
+    },
+    "Assessing Social Acceptance of Urban Air Mobility using Virtual Reality": {
+      "journal": "IEEE Digital Avionics Systems Conference (DASC)",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "assessing_social_acceptance_of_urban_air_mobility_using_virtual_reality": {
+      "journal": "IEEE Digital Avionics Systems Conference (DASC)",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "The 2nd Workshop on User Experience in Urban Air Mobility: From Ground to Aerial Transportation": {
+      "journal": "AutomotiveUI Adjunct Proceedings",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "the_2nd_workshop_on_user_experience_in_urban_air_mobility_from_ground_to_aerial_transportation": {
+      "journal": "AutomotiveUI Adjunct Proceedings",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "Noise and Visual Perception of Urban Air Mobility vehicles": {
+      "journal": "DICUAM 2021 Conference",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    },
+    "noise_and_visual_perception_of_urban_air_mobility_vehicles": {
+      "journal": "DICUAM 2021 Conference",
+      "quartile": "Q4",
+      "impact_score": null,
+      "normalized_impact_score": 0.0
+    }
+  },
+  "pdf_to_excel_map": {},
+  "excel_to_pdf_map": {},
+  "unmatched_excel_papers": [],
+  "unmatched_pdf_files": [],
+  "journal_statistics": {
+    "quartile_distribution": {
+      "Q1": 54,
+      "Q2": 7,
+      "Q3": 4,
+      "Q4": 10,
+      "Unknown": 0
+    },
+    "impact_score_stats": {
+      "min": 0.18,
+      "max": 3.761,
+      "mean": 1.4772105263157893,
+      "median": 1.0750000000000002,
+      "std": 0.9233527340448741
+    },
+    "total_papers": 75,
+    "journals_with_impact_scores": 38,
+    "total_journals": 47
+  },
+  "quality_tiers": {
+    "top": {
+      "quartiles": [
+        "Q1"
+      ],
+      "min_impact": 10.0,
+      "weight": 1.8
+    },
+    "high": {
+      "quartiles": [
+        "Q1",
+        "Q2"
+      ],
+      "min_impact": 5.0,
+      "weight": 1.4
+    },
+    "medium": {
+      "quartiles": [
+        "Q2",
+        "Q3"
+      ],
+      "min_impact": 2.0,
+      "weight": 1.0
+    },
+    "low": {
+      "quartiles": [
+        "Q3",
+        "Q4"
+      ],
+      "min_impact": 0.0,
+      "weight": 0.7
+    },
+    "unknown": {
+      "quartiles": [
+        "Unknown"
+      ],
+      "min_impact": 0.0,
+      "weight": 0.3
+    }
+  }
+}

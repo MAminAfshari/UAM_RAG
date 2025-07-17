@@ -1,0 +1,61 @@
+{
+  "test_queries": [
+    {
+      "query": "What is the relationship between perceived usefulness and behavioral intention in UAM adoption?",
+      "expected_papers": [
+        "chen2023",
+        "zhang2024",
+        "smith2023",
+        "lee2022",
+        "wang2023"
+      ],
+      "expected_findings": [
+        {
+          "key_terms": [
+            "perceived usefulness",
+            "positive effect",
+            "behavioral intention"
+          ],
+          "expected_statistics": [
+            "\u03b2 > 0.5",
+            "p < 0.001"
+          ]
+        }
+      ]
+    },
+    {
+      "query": "How does trust influence UAM acceptance compared to perceived risk?",
+      "expected_papers": [
+        "johnson2023",
+        "kim2024",
+        "garcia2023"
+      ],
+      "expected_findings": [
+        {
+          "key_terms": [
+            "trust",
+            "stronger predictor",
+            "perceived risk"
+          ],
+          "expected_statistics": [
+            "comparative analysis",
+            "effect sizes"
+          ]
+        }
+      ]
+    }
+  ],
+  "temporal_trends": {
+    "trust": {
+      "trend": "increasing",
+      "change_points": [
+        2020
+      ],
+      "recent_effect": 0.65
+    }
+  },
+  "contradictions": [
+    "social influence effects vary by culture",
+    "age moderates technology acceptance differently across studies"
+  ]
+}

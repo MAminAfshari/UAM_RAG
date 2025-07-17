@@ -1,0 +1,11 @@
+{
+  "total_papers": 2,
+  "successful_papers": 2,
+  "failed_papers": 0,
+  "total_chunks": 228,
+  "papers_processed": [
+    "ariza-montes2023tfsc.pdf",
+    "karami2024tp.pdf"
+  ],
+  "errors": []
+}
